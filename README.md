@@ -2,7 +2,7 @@
 
 👨‍💻: Currently a Front-End Developer Intern at Brain Evolved.
 
-:writing_hand: I love sharing Front-End tech stack, you can check my repos for more details.
+:writing_hand:: I love sharing Front-End tech stack, you can check my repos for more details.
 
 ## :computer: My Tech Stack
 
