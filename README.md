@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdulwahab Humayun!
 
-👨‍💻: Currently a Software Engineer at VitusVet.
+👨‍💻: I'm currently a Software Engineer at VitusVet.
 
 :writing_hand:: I love sharing Front-End tech stack, you can check my repos for more details.
 
