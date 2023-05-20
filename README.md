@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Abdulwahab Humayun!
+# 👋 Hello, I'm awhumayun!
 
-👨‍💻: I'm currently a Software Engineer at VitusVet.
+👨‍💻: I'm currently seeking a Front-End or Full Stack Web Development role.
 
-:writing_hand:: I love sharing Front-End tech stack, you can check my repos for more details.
+:writing_hand:: I love sharing Front-End tech stack, you can check my repos below for more details.
 
 ## :computer: My Tech Stack
 
@@ -52,6 +52,4 @@
 <p align="center">
   <a href="https://github.com/awhumayun"><img src="https://img.shields.io/badge/-awhumayun-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://gitlab.com/ahumayun"><img src="https://img.shields.io/badge/-ahumayun-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/awhumayun/"><img src="https://img.shields.io/badge/-Abdulwahab%20Humayun-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:abd.humayun@gmail.com"><img src="https://img.shields.io/badge/-abd.humayun@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
