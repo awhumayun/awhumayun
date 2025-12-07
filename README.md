@@ -14,7 +14,7 @@
 
 :writing_hand: You can check my repos below for my side projects!
 
-🇷🇺 🇩🇪 Fun fact: I'm currently learning Russian and German. Вы говорите по-русски? Sprechen Sie Deutsch? 
+🇩🇪 Fun fact: I'm currently learning German. Sprechen Sie Deutsch? 
 
 </div>
 
