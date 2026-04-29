@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🇺🇸 Software Engineer | Front-End & Full Stack Developer
+### Software Engineer | Full Stack Developer
 
 </div>
 
