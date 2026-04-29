@@ -4,21 +4,15 @@
 
 ---
 
-# 👋 Hello! I'm Wahab
-
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />  
+# Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" /> I'm Wahab!
 
 </div>
-
-<br/>
 
 <div align="center">
 
 ### Software Engineer | Full Stack Developer
 
 </div>
-
-<br/>
 
 <div align="center">
 
